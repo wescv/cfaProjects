@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd85242c-b65d-4f26-95a4-3ce001101cd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MapEditor/lib/simplegraphics.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/src/org/cadeforall/ooptimus/MapEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapEditor/src/org/cadeforall/ooptimus/MyKeyBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstGame/Sound/MatrixBombExplosion.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstGame/Sound/SmallExplosion.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstGame/Sound/SmallExplosion2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-list-skeleton/src/org/academiadecodigo/bootcamp/containers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FakeBankAcc/out/production/FakeBankAcc/org/codeforall/ooptimus/Wallet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../FakeBankAcc/out/production/FakeBankAcc/org/codeforall/ooptimus/Wallet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FakeBankAcc/src/org/codeforall/ooptimus/Wallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FakeBankAcc/src/org/codeforall/ooptimus/Wallet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2XDNGRT2sfDwBWr8Xswwau9jhVJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untitled" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd85242c-b65d-4f26-95a4-3ce001101cd2" name="Changes" comment="" />
+      <created>1698159595644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698159595644</updated>
+      <workItem from="1698159596900" duration="104000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
